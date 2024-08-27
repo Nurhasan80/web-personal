@@ -1087,6 +1087,14 @@ span {
     height: 250px;
     
 }
+.pesan {
+    width: 1110px;
+    height: 900px;
+    justify-content: center;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+}
 
 /**********************************/
 /*********** Footer CSS ***********/
